@@ -3,5 +3,5 @@
 
 ### flutter_dialog
 
-![](../arts/dialog.gif)
+![](https://raw.githubusercontent.com/jiang111/flutter_kit/master/arts/dialog.gif)
 
